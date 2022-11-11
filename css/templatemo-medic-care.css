@@ -95,7 +95,7 @@ h6 {
 }
 
 p {
-  color: var(--primary-color);
+  color: #dd7fd3;
   font-size: var(--p-font-size);
   font-weight: var(--font-weight-light);
   letter-spacing: 0.5px;
@@ -128,7 +128,7 @@ a:hover {
   display: inline-block;
   text-decoration: none;
   border: 1px solid var(--border-color);
-  color: var(--primary-color);
+  color: #dd7fd3;
   pointer-events: auto;
   font-weight: var(--font-weight-semibold);
   line-height: 40px;
@@ -201,7 +201,7 @@ strong {
 }
 
 .animated-item {
-  color: var(--primary-color);
+  color: #dd7fd3;
 }
 
 .animated-item {
@@ -279,7 +279,7 @@ strong {
 }
 
 /*---------------------------------------
-  FEATURED              
+  fD              
 -----------------------------------------*/
 .featured-circle {
   border-radius: 100%;
@@ -298,7 +298,7 @@ strong {
 }
 
 .featured-number {
-  color: var(--primary-color);
+  color: #dd7fd3;
   font-size: 8rem;
   margin: 0 10px;
 }
