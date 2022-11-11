@@ -113,7 +113,7 @@ a {
 }
 
 a:hover {
-  color: var(--primary-color);
+  color: var(#d42e12);
 }
 
 .section-padding {
